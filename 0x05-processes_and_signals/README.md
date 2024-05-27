@@ -6,3 +6,4 @@ Tasks 📃
 
 0-what-is-my-pid: Bash script that displays its own PID.
 1. List your processes
+Bash script that displays lines containing the bash
